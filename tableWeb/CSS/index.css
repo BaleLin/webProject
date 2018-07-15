@@ -1,0 +1,13 @@
+.table td{
+ height: 140px;
+}
+.bigerFont td{
+font-size: 40px;
+ font-style: oblique;
+ text-align:center;
+}
+.formFont td{
+ font-size: 20px;
+ font-style: oblique;
+ text-align:center;
+}

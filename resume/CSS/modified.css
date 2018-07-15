@@ -1,0 +1,198 @@
+body{margin: 0}
+.background {
+    background:url("../image/backgroud.jpg");
+    height: 650px;
+    width: 1980px;
+}
+
+.navige{
+    list-style-type: none;
+    float: right;
+    margin-right: 100px;
+    margin-top: 50px;
+
+
+}
+.navige li{
+    display: inline-block;
+    width: 145px;
+    text-align: center;
+}
+.navige  a{
+    width: 77%;
+    color: #f9f2f4;
+    text-decoration: none;
+    font-size: 18px;
+    display: inline-block;
+    padding: 14px 16px;
+    background: #2e6da4;
+    border-radius: 20%;
+    box-shadow: 10px 10px 40px 7px #66afe9;
+}
+.navige li a:hover {
+    background: #3c763d;
+}
+.name {
+    font-size: 50px;
+    color: #f9f2f4;
+    width: 250px;
+    margin: 0px 50px 0px 800px ;
+}
+
+.littleIntroduce {
+    font-size: 40px;
+    color: #f9f2f4;
+    width: 450px;
+    margin: 0px 50px 0px 700px ;
+}
+
+.portrait{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin: 150px 50px 10px 800px;
+}
+.buttondiv{
+    margin: 20px 50px 10px 0px;
+
+
+}
+.buttonStyle1{
+    margin: 20px 20px 10px 730px;
+    height: 40px;
+    width: 150px;
+    background: #3c763d;
+    font-size: larger;
+    font-style: italic;
+    color: #f9f2f4;
+    border-radius: 10%;
+}
+.buttonStyle2{
+    margin: 20px 50px 10px 10px;
+    height: 40px;
+    width: 150px;
+    background: #3c763d;
+    font-size: larger;
+    color: #f9f2f4;
+    font-style: italic;
+    border-radius: 10%;
+}
+.content{
+    height:1200px;
+    width: 1000px;
+    border-radius: 2%;
+    margin: 30px auto;
+     box-shadow: 2px  10px 50px 20px #8c8c8c;
+    background: #c4e3f3;
+
+}
+.about{
+
+    float: left;
+    height: 300px;
+    width: 460px;
+    font-size: larger;
+    padding: 40px 0px 0px 30px;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-color: #2e6da4;
+
+}
+.about h2{
+    margin: 20px 0px 20px 0px;
+}
+.about li {
+    margin: 10px 10px 10px 10px;
+    font-style: oblique;
+    font-size: 25px;
+}
+.about li:hover{
+    color: #761c19;
+}
+.basice{
+    float: left;
+    height: 300px;
+    width: 468px;
+    font-size: larger;
+    padding: 40px 0px 0px 30px;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-color: #2e6da4;
+
+}
+.basice h2{
+    margin: 15px 0px 20px 0px;
+}
+.basice li{
+    margin: 10px 10px 10px 10px;
+    font-style: oblique;
+    font-size: 23px;
+}
+.me{
+    float: left;
+    height: 50px;
+    width: 50px;
+    margin-right: 50px;
+}
+.menu{
+    float: left;
+    height: 50px;
+    width: 50px;
+    margin-right: 50px;
+}
+.award{
+    float: left;
+    height: 50px;
+    width: 50px;
+    margin-right: 50px;
+}
+.schoolExperience
+{
+    float: left;
+    height: 350px;
+    width: 970px;
+    font-size: larger;
+    padding: 40px 0px 0px 30px;
+    border-bottom-style: solid;
+    border-radius: 2%;
+    border-color: #2e6da4;
+}
+.schoolExperience li{
+    margin: 10px 10px 10px 10px;
+    font-style: oblique;
+    font-size: 30px;
+}
+.schoolExperience h2{
+    margin: 15px 0px 20px 0px;
+}
+.ItemExperience
+{
+    float: left;
+    height: 350px;
+    width: 970px;
+    font-size: larger;
+    padding: 40px 0px 0px 30px;
+    border-bottom-style: solid;
+    border-radius: 2%;
+    border-color: #2e6da4;
+}
+.ItemExperience li{
+    margin: 10px 10px 10px 10px;
+    font-style: oblique;
+    font-size: 30px;
+}
+.ItemExperience h2{
+    margin: 15px 0px 20px 0px;
+}
+.ItemExperience p{
+    margin: 15px 0px 20px 0px;
+    font-size: 27px;
+    font-style: oblique;
+}
+.item{
+    float: left;
+    height: 50px;
+    width: 50px;
+    margin-right: 50px;
+}
